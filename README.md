@@ -1,6 +1,7 @@
 # Temperature Converter
 
 A simple temperature converter built with Node.js. The program allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin through the terminal.
+Based on: https://roadmap.sh/projects/js-temperature-converter
 
 ## Features
 

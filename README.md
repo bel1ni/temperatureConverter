@@ -18,7 +18,7 @@ A simple temperature converter built with Node.js. The program allows users to c
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/bel1ni/temperatureConverter
 ```
 
 Navigate to the project folder:
